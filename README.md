@@ -54,10 +54,15 @@ This project was developed for a 48-hour internship challenge focused on uncover
 ## 📂 Project Structure
 
 ├── data/
+
 │ └── resume_dataset.csv
+
 ├── notebook/
+
 │ └── bias_detection_and_explainability.ipynb
+
 ├── README.md
+
 └── report.pdf
 
 
